@@ -126,7 +126,7 @@ fecha = parseInt(fecha / 100)
 console.log(fecha + " / " + mes + " / " + año)
 ```
 
-[Alt text](./img/11.jpg?raw=true "Title")
+![Alt text](./img/11.jpg?raw=true "Title")
 
 
 ### EJERCICIO 12
@@ -140,7 +140,7 @@ if (numeroEntero % 2 == 0) {
     false
 }
 ```
-[Alt text](./img/12.jpg?raw=true "Title")
+![Alt text](./img/12.jpg?raw=true "Title")
 
 ### EJERCICIO 13
 
@@ -154,7 +154,7 @@ if (edad > 18 && articulosComprados > 1) {
     false
 }
 ```
-[Alt text](./img/13.jpg?raw=true "Title")
+![Alt text](./img/13.jpg?raw=true "Title")
 
 ### EJERCICIO 14
 
@@ -168,7 +168,7 @@ if (cadenaCaracteres.length % 2 == 0) {
     false
 }
 ```
-[Alt text](./img/14.jpg?raw=true "Title")
+![Alt text](./img/14.jpg?raw=true "Title")
 
 
 ### EJERCICIO 15
@@ -192,7 +192,7 @@ if (unaPalabra.length < segundaPalabra.length) {
 }
 ```
 
-[Alt text](./img/15.jpg?raw=true "Title")
+![Alt text](./img/15.jpg?raw=true "Title")
 
 
 ### EJERCICIO 16
@@ -212,7 +212,7 @@ if (nombreUno.charAt(0) === nombreDos.charAt(0) ||
 }
 ```
 
-[Alt text](./img/1.jpg?raw=true "Title")
+![Alt text](./img/1.jpg?raw=true "Title")
 
 
 ### EJERCICIO 17
@@ -232,7 +232,7 @@ if (absoluto > 0) {
 }
 ```
 
-[Alt text](./img/17.jpg?raw=true "Title")
+![Alt text](./img/17.jpg?raw=true "Title")
 
 
 ### EJERCICIO 18
@@ -256,7 +256,7 @@ if (n1 > n2) {
 }
 ```
 
-[Alt text](./img/18.jpg?raw=true "Title")
+![Alt text](./img/18.jpg?raw=true "Title")
 
 
 ### EJERCICIO 19
@@ -277,7 +277,7 @@ if (letra === 'a' || letra === 'e' || letra === 'i' || letra === 'o' || letra ==
 }
 ```
 
-[Alt text](./img/19.jpg?raw=true "Title")
+![Alt text](./img/19.jpg?raw=true "Title")
 
 ### EJERCICIO 20
 
@@ -304,4 +304,4 @@ if (menor > numDos && numDos < numTres) {
 
 }
 ```
-[Alt text](./img/20.jpg?raw=true "Title")
+![Alt text](./img/20.jpg?raw=true "Title")
