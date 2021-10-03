@@ -2,7 +2,8 @@
 _20 Ejercicios utilizando el javascript_
 
 ## Integrantes grupos
-1. Jhonathan Grisales 
+1. Jhonathan Grisales
+##
 
 ### EJERCICIO 1
 
