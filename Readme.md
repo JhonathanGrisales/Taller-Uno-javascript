@@ -212,7 +212,7 @@ if (nombreUno.charAt(0) === nombreDos.charAt(0) ||
 }
 ```
 
-![Alt text](./img/1.jpg?raw=true "Title")
+![Alt text](./img/16.jpg?raw=true "Title")
 
 
 ### EJERCICIO 17
