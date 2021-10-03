@@ -1,1 +1,2 @@
-# Trabajo en clase realizar los siguientes 20 Ejercicios en parejas utilizando el lenguaje javascript
+# Trabajo javascript 
+_20 Ejercicios en parejas utilizando el lenguaje _
